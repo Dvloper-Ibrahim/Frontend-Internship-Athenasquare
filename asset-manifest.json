@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Frontend-Internship-Athenasquare/static/css/main.3a7cfd04.css",
+    "main.js": "/Frontend-Internship-Athenasquare/static/js/main.b41e6e49.js",
+    "static/js/787.9db53fe7.chunk.js": "/Frontend-Internship-Athenasquare/static/js/787.9db53fe7.chunk.js",
+    "index.html": "/Frontend-Internship-Athenasquare/index.html",
+    "main.3a7cfd04.css.map": "/Frontend-Internship-Athenasquare/static/css/main.3a7cfd04.css.map",
+    "main.b41e6e49.js.map": "/Frontend-Internship-Athenasquare/static/js/main.b41e6e49.js.map",
+    "787.9db53fe7.chunk.js.map": "/Frontend-Internship-Athenasquare/static/js/787.9db53fe7.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3a7cfd04.css",
+    "static/js/main.b41e6e49.js"
+  ]
+}
